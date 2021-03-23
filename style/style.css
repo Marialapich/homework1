@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(224, 207, 177)
+}
+
+.block1 {
+    height: 400px;
+    background-image: url(../images/hor.png);
+    background-repeat: repeat;
+    border-style: solid;
+    border-width: medium;
+    border-color: rgb(255, 215, 0);
+    margin: auto;
+    padding: 100px; 
+    width: 400px;
+}
+
+.text {
+    color:rgb(60, 60, 255);
+    text-align: center;
+    text-align:justify;
+    font-size: 14px;
+}
+
+.block2 {
+    height: 400px;
+    background-image: url(../images/ver.png);
+    background-repeat: repeat;
+    border-style: solid;
+    border-width: medium;
+    border-color: rgb(255, 215, 0);
+    margin: 50px auto;
+    padding: 100px;
+    width: 400px;
+}
+
+.text1 {
+    color:rgb(240, 10, 10);
+    text-align: center;
+    text-align:justify;
+    font-size: 16px;
+}
